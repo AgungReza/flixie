@@ -19,7 +19,7 @@ npm install
 ```
 3. Jalankan generator tailwidcss
 ```
-npm run taiwlind
+npm run tailwind
 ```
 4. Jalan file .html
 ```
