@@ -25,4 +25,4 @@ npm run tailwind
 ```
 Klik kanan -> open with live server (Pastikan sudah install extension live server)
 ```
-Jangan lupa gunakan template di template.html sebelum memulai mengoding (copas saja)
+Jangan lupa gunakan template di template.html sebelum memulai mengoding (copas saja) c
